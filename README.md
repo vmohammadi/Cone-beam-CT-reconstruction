@@ -1,4 +1,4 @@
-# Cone-beam-CT-reconstruction
+# Cone-Beam-CT-reconstruction
 
 ![The geometry](https://github.com/vmohammadi/Cone-beam-CT-reconstruction/blob/main/Image1_.png)
 Please first verify the requirements file
