@@ -1,5 +1,6 @@
 # Cone-beam-CT-reconstruction
 
+![Alt text]((https://github.com/vmohammadi/Cone-beam-CT-reconstruction/blob/main/Image1_.png))
 Please first verify the requirements file
 
 Here are the requirements
