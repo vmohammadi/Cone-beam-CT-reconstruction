@@ -4,6 +4,7 @@
 Please first verify the requirements file
 
 Here are the requirements
+
 Python:
 64-bit Python 2.7, 3.5 or 3.6
 
