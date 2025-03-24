@@ -1,0 +1,12 @@
+Python:
+64-bit Python 2.7, 3.5 or 3.6
+
+CUDA version:
+5.5 or higher
+
+ASTRA toolbox:
+https://astra-toolbox.com/
+
+Install ASTRA using:
+conda install -c astra-toolbox astra-toolbox
+
