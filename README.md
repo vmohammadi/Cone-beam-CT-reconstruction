@@ -21,6 +21,3 @@ You need 360° RX images of a calibration sample ( a sample with two metalic min
 
 ![An image of the calibration sample](https://github.com/vmohammadi/Cone-beam-CT-reconstruction/blob/main/Sample.png)
 
-Here is a slice of the 3D reconstructed model
-
-![An image of the calibration sample](https://github.com/vmohammadi/Cone-beam-CT-reconstruction/blob/main/Result_Slice.png)
